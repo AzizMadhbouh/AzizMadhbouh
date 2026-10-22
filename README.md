@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://azizmadhbouh.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-5EEAD4?style=for-the-badge&logo=firefox&logoColor=black" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/aziz-madhbouh-b3884b33b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:mohamedazizmadhbouh0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:mohamedazizmadhbouh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/AzizMadhbouh?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 </p>
 
@@ -87,5 +87,5 @@ I'm open to **Data Engineering, Big Data, and AI/ML** opportunities.
 
 - 🌐 Portfolio — [azizmadhbouh.github.io/portfolio](https://azizmadhbouh.github.io/portfolio/)
 - 💼 LinkedIn — [aziz-madhbouh](https://www.linkedin.com/in/aziz-madhbouh-b3884b33b/)
-- 📧 Email — [mohamedazizmadhbouh0@gmail.com](mailto:mohamedazizmadhbouh0@gmail.com)
+- 📧 Email — [mohamedazizmadhbouh@gmail.com](mailto:mohamedazizmadhbouh@gmail.com)
 - 💻 GitHub — [github.com/AzizMadhbouh](https://github.com/AzizMadhbouh)
